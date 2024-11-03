@@ -1,7 +1,5 @@
 # 🌀 MAZE ESCAPE: A Computational Thinking Game
 
-### VIDEO DEMO: [URL](https://youtu.be/y0Z_l-RuWz0)
-
 ## DESCRIPTION:
 
 Maze Escape is a computational thinking game developed in Python. It’s designed as an educational tool, especially for those with minimal programming experience. The game aims to introduce essential programming concepts like loops, logical thinking, and structured problem solving in an engaging way. By providing an interactive experience, Maze Escape allows players to think like a programmer without requiring them to write any code themselves.
